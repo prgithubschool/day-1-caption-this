@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: February 5 - 6, 2024
+- Facilitator: @Paromita Roy, Puneet Minhas
 
 ## Class Resources
 

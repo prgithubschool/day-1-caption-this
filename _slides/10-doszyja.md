@@ -3,7 +3,6 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+My Doszyja captzion
 
-![poptocat](https://octodex.github.com/images/poptocat.png)
-{: .center}
+```Why did the JavaScript developer quit their job? They wanted to branch out.```
